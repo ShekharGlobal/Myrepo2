@@ -3,10 +3,10 @@ Welcome to version Control
 
 GitHub Git hub
 
-This is new line
+This is new line new line
 
 This is new line
 This is new line
 
-Version control
+Version control version
 Version control
